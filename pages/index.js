@@ -105,7 +105,7 @@ export default function Home() {
           <div className="flex container sm:flex-row flex-col flex-row mt-3 mb-3">
 
             <div className="container relative mr-10 mb-3">
-              <input placeholder="Type here" className="input w-[100%]  text-gray-600 bg-slate-200  pl-10" id="email"
+              <input placeholder="YourEmail@gmail.com" className="input w-[100%]  text-gray-600 bg-slate-200  pl-10" id="email"
                 type="email"
                 name="email" />
               <Image src={ Portrait } id='inputIcon' className='absolute center top-3.5 left-2' />
