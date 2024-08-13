@@ -4,11 +4,7 @@
 
 html,
 body {
-  height: 100%;
-  background-repeat: no-repeat;
-  background-image: url('../pages/assests/BackgroundDWDLoading.png');
-  background-size: cover;
-  background-position: center;
+  color: #eee;  
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
